@@ -1,5 +1,5 @@
 在dev分支上加了一个dev.txt文件
 
-这时候我只是git add dev.txt还没有commit，我又做了修改
+这时候我只是git add dev.txt还没有commit，我又做了改动
 
 这时候我切换回了master，并且在dev.txt作了这次修改
