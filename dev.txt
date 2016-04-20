@@ -3,3 +3,5 @@
 这时候我只是git add dev.txt还没有commit，我又做了修改
 
 这时候我切换回了master，并且在dev.txt作了这次修改
+
+我在dev分支上工作了，这时候来了个bug，可是我还没改好，不想提交，所以我先stash一下
